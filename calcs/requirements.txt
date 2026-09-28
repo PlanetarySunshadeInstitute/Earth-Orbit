@@ -1,0 +1,13 @@
+# Calculations for "Earth Orbit Sunshades: Constraints Assessment"
+#
+# Python 3.9 or later. NumPy is the only dependency; the scripts use
+# nothing from SciPy, pandas or matplotlib.
+#
+# The lower bound is where np.interp, np.polyfit and f-string formatting
+# all behave as the scripts assume. NumPy 2.x is supported: the one API
+# that moved, np.trapz -> np.trapezoid, is handled at import in
+# kessler_crosssection.py.
+#
+#   pip install -r requirements.txt
+
+numpy>=1.22
