@@ -1,7 +1,7 @@
 # Earth Orbit Sunshades: Constraints Assessment — calculations
 
 Python calculations behind the Planetary Sunshade Institute report
-**Earth Orbit Sunshades: Constraints Assessment** (Morgan Goodwin, August 2026),
+**Earth Orbit Sunshades: Constraints Assessment** (Morgan Goodwin, September 2026),
 part of the ARIA-funded Space Reflector Baseline Survey.
 
 **Read the report:** [planetarysunshade.org/publications](https://planetarysunshade.org/publications/)
